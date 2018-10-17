@@ -1,0 +1,9 @@
+x=0
+for i in range(10,100):
+    for j in range(10,100):
+        if i*i-100==j*j-268:
+            x=i*i-100
+            print(x)
+            break
+
+

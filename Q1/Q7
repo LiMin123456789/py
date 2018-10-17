@@ -1,0 +1,17 @@
+a=[1,2,3]
+
+b=a.copy()
+
+print(b)
+
+
+
+l = [1,2,3,4,5]
+
+p = []
+
+for i in range(len(l)):
+
+    p.append(l[i])
+
+print (p)

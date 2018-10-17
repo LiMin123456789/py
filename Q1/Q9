@@ -1,0 +1,11 @@
+a = 1              #tuzi
+b = 1              #mon
+c=[20]
+for i in range(0,13):
+    print(b,end='')
+    c[i+2]=a
+    a=a+c[i]
+    b=b+1
+    print(a)
+
+

@@ -1,0 +1,11 @@
+dic = {1:31,2:28,3:31,4:30,5:31,6:30,7:31,8:31,9:30,10:31,11:30,12:31}
+x = int(input('请输入月份：'))
+y = int(input('请输入日期：'))
+r=0
+if  x in range(1,13) and y in range(1,dic[x]):
+    for i in range(1, 13):
+        if i<x:
+            r+=dic[i]
+else:
+    print("error")
+print("这是年度第",r+y,"天")

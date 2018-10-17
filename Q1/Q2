@@ -1,0 +1,35 @@
+l=int(input("请输入你的利润："))
+sum=0
+p=0
+while l>0 :
+   if l>0 and l<=10:
+        sum=sum+l*0.1
+        l=l-10
+   else:
+        if l>10 and l<=20:
+            p=l-10
+            l=l-p
+            sum=sum+p*0.075
+        else:
+             if l>20 and l<=40:
+                 p=l-20
+                 l=l-p
+                 sum=sum+p*0.05
+             else:
+                if 1>40 and l<=60:
+                     p=l-40
+                     l=l-p
+                     sum=sum+p*0.03
+                else:
+                    if l>60 and l<=100:
+                         p=l-60
+                         l=l-p
+                         sum=sum+p*0.015
+                    else:
+                         if l>100:
+                              p=l-100
+                              l=l-p
+                              sum=sum+p*0.01
+
+print("总利润为：",sum,"万元")
+
