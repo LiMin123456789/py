@@ -1,3 +1,5 @@
+
+'''
 a = 1              #tuzi
 b = 1              #mon
 c=[20]
@@ -7,5 +9,9 @@ for i in range(0,13):
     a=a+c[i]
     b=b+1
     print(a)
+'''
 
-
+x, y = 0, 1
+for i in range(1, 13):
+    print('第%s个月：%s只兔子' % (i,y))
+    x, y = y, x+y
