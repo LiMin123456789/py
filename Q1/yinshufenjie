@@ -1,0 +1,13 @@
+#将一个正整数分解质因数，例如90=2*3*3*5
+
+p=int(input("请输入一个正整数："))
+k=2
+print(p,"=",end="")
+while(p>k):
+    if p%k==0:
+        print(k,"*",end="")
+        p=p/k
+    else:
+        if p%k!=0:
+            k=k+1
+print(k,end="")

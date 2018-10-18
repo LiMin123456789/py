@@ -1,0 +1,11 @@
+#利用条件运算符的嵌套来完成：学习成绩>=90为A，60-89为B，60一下为C
+
+g=int(input("请输入你的分数："))
+
+if g>=90:
+    print("A")
+elif g>=60and g<=89:
+    print("B")
+elif g<60:
+    print("C")
+
