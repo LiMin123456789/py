@@ -1,0 +1,13 @@
+#求s=a+aa+aaa+aaaa+……的值，其中a是一个数字，例如2+22+222+……，几个数字相加有键盘控制
+
+p=int(input("请输入一个数a："))
+n=int(input("请输入相加数的个数："))
+num=p
+t=0
+
+for i in range(0,n):
+    for j in range(0,i):
+        num=num+num*10
+    t=t+num
+    num=p
+print(t)
