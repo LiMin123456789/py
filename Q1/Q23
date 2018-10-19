@@ -1,0 +1,9 @@
+# 利用递归方法求5!
+
+def digui(n):
+    if n==1:
+        return 1
+    else:
+        return digui(n-1)*n
+print(digui(5))
+

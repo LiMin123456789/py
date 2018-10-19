@@ -1,0 +1,12 @@
+# 利用递归函数调用方式，将所输入的5个字符，以相反顺序打印出来。
+
+def digui(n):
+    if n==1:
+        i=input()
+        print(i)
+    else:
+        j=input()
+        digui(n-1)
+        print(j)
+digui(5)
+
