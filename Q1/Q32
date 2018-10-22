@@ -1,3 +1,9 @@
 # 将一个数组逆序输出。
-l=[]
-
+l=[]*10
+print("请输入数组的10个数：")
+for i in range(0,10):
+    n=int(input())
+    l.append(n)
+l.sort()
+l.reverse()
+print(l)

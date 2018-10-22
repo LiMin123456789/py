@@ -15,8 +15,8 @@
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,11 +41,13 @@
           <entry key="Q26" value="2" />
           <entry key="Q27" value="3" />
           <entry key="Q28" value="2" />
-          <entry key="Q29" value="1" />
+          <entry key="Q29" value="2" />
           <entry key="Q3" value="1" />
           <entry key="Q30" value="1" />
           <entry key="Q31" value="1" />
           <entry key="Q32" value="1" />
+          <entry key="Q33" value="1" />
+          <entry key="Q34" value="1" />
           <entry key="Q4" value="1" />
           <entry key="Q5" value="1" />
           <entry key="Q6" value="1" />
@@ -57,7 +59,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="57" />
+          <entry key="Python" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -86,7 +88,9 @@
           <entry key="Q3" value="89" />
           <entry key="Q30" value="35" />
           <entry key="Q31" value="36" />
-          <entry key="Q32" value="21" />
+          <entry key="Q32" value="126" />
+          <entry key="Q33" value="58" />
+          <entry key="Q34" value="67" />
           <entry key="Q4" value="46" />
           <entry key="Q5" value="226" />
           <entry key="Q6" value="105" />
@@ -98,7 +102,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5660" />
+          <entry key="Python" value="5890" />
         </counts>
       </usages-collector>
     </session>
@@ -106,28 +110,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q30">
+        <entry file="file://$PROJECT_DIR$/Q32">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Q31">
+        <entry file="file://$PROJECT_DIR$/Q33">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Q32">
+        <entry file="file://$PROJECT_DIR$/Q34">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="228">
+              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -172,10 +176,12 @@
         <option value="$PROJECT_DIR$/Q30" />
         <option value="$PROJECT_DIR$/Q31" />
         <option value="$PROJECT_DIR$/Q32" />
+        <option value="$PROJECT_DIR$/Q33" />
+        <option value="$PROJECT_DIR$/Q34" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="646" />
@@ -187,7 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +204,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,70 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Q31">
-    <configuration name="Q27" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Q1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q27" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q28" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Q1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q28" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q29" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Q1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q29" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Q34">
     <configuration name="Q30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Q1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,20 +265,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Q32" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Q1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q32" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Q1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q33" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Q1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q34" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Q27" />
-      <item itemvalue="Python.Q28" />
-      <item itemvalue="Python.Q29" />
       <item itemvalue="Python.Q30" />
       <item itemvalue="Python.Q31" />
+      <item itemvalue="Python.Q32" />
+      <item itemvalue="Python.Q33" />
+      <item itemvalue="Python.Q34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q34" />
+        <item itemvalue="Python.Q33" />
+        <item itemvalue="Python.Q32" />
         <item itemvalue="Python.Q31" />
         <item itemvalue="Python.Q30" />
-        <item itemvalue="Python.Q29" />
-        <item itemvalue="Python.Q28" />
-        <item itemvalue="Python.Q27" />
       </list>
     </recent_temporary>
   </component>
@@ -343,13 +349,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,9 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <marker date="1539917424808" expanded="true" signature="26:57" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,10 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q29">
+    <entry file="file://$PROJECT_DIR$/Q31">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -579,17 +583,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Q31">
+    <entry file="file://$PROJECT_DIR$/Q29">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Q32">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q33">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Q34">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
         </state>
       </provider>
     </entry>
