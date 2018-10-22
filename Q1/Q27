@@ -1,1 +1,17 @@
 # 一个5位数，判断它是不是回文数。即12321是回文数，个位与万位相同，十位与千位相同。
+
+c=[]
+t=0
+p=int(input("请输入一个五位数："))
+for m in range(0,5):
+    c.append(p%10)
+    p=int(p/10)
+for i in range(0,5):
+    for j in range(4,-1,-1):
+        if i+j==4:
+           if c[i]!=c[j]:
+               t=1
+if t==0:
+    print("YES")
+else:
+    print("NO")

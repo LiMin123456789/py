@@ -1,0 +1,11 @@
+# 对10个数进行排序
+print("请输入10个数")
+
+l=[]
+for j in range(0,10):
+    l.append(int(input()))
+
+l.sort()
+for i in range(0,10):
+    print(l[i])
+
